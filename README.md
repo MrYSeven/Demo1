@@ -1,3 +1,5 @@
-# Demo1
-Seven Demo1
-123
+# 一级标题
+    1. git clone 
+    2. npm install
+    3. npm run dev
+
